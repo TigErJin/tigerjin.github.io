@@ -28,7 +28,7 @@ twitter_username:
 github_username:  TigErJin
 
 # Build settings
-theme: Hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
